@@ -1,12 +1,12 @@
 # ByeWind Dashboard
 
-A modern, pixel-perfect SaaS dashboard implementation built with React, TypeScript, and Tailwind CSS. This project recreates the provided Figma designs with full functionality, responsive design, and smooth animations.
+A modern, pixel-perfect SaaS dashboard implementation built with React, Javascript, and Tailwind CSS. This project recreates the provided Figma designs with full functionality, responsive design, and smooth animations.
 
-![Dashboard Preview](https://images.pexels.com/photos/590020/pexels-photo-590020.jpeg?auto=compress&cs=tinysrgb&w=1200&h=630&fit=crop)
+![Dashboard Preview](https://drive.google.com/file/d/14chnnLGQHIMnfWTsqVaSkIwi9wgHhsFm/view?usp=sharing)
 
 ## 🚀 Live Demo
 
-**Deployed Application**: [Coming Soon]
+**Deployed Application**: [https://bye-wind-dashboard.netlify.app/]
 
 ## ✨ Features
 
@@ -19,7 +19,7 @@ A modern, pixel-perfect SaaS dashboard implementation built with React, TypeScri
 - **Notifications**: Real-time notification panel with activity feeds
 
 ### Technical Features
-- **Modern React**: Built with React 18, TypeScript, and ES6+
+- **Modern React**: Built with React 18, Javascript, and ES6+
 - **Performance Optimized**: Lazy loading, memoization, and efficient re-renders
 - **Accessibility**: WCAG 2.1 compliant with keyboard navigation and screen reader support
 - **Cross-browser Compatible**: Tested on Chrome, Firefox, Safari, and Edge
@@ -27,7 +27,7 @@ A modern, pixel-perfect SaaS dashboard implementation built with React, TypeScri
 
 ## 🛠️ Technology Stack
 
-- **Frontend**: React 18, TypeScript, Tailwind CSS
+- **Frontend**: React 18, Javascript, Tailwind CSS
 - **Icons**: Lucide React
 - **Charts**: Custom SVG-based charts for optimal performance
 - **State Management**: React Context API with hooks
@@ -66,7 +66,7 @@ A modern, pixel-perfect SaaS dashboard implementation built with React, TypeScri
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ravijabade12/ByeWind-Dashboard.git
    cd byewind-dashboard
    ```
 
