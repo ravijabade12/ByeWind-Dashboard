@@ -2,7 +2,7 @@
 
 A modern, pixel-perfect SaaS dashboard implementation built with React, Javascript, and Tailwind CSS. This project recreates the provided Figma designs with full functionality, responsive design, and smooth animations.
 
-![Dashboard Preview](https://drive.google.com/file/d/14chnnLGQHIMnfWTsqVaSkIwi9wgHhsFm/view?usp=sharing)
+  <img src="https://drive.google.com/uc?export=view&id=14chnnLGQHIMnfWTsqVaSkIwi9wgHhsFm" alt="Dashboard Preview" width="900">
 
 ## 🚀 Live Demo
 
